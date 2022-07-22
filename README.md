@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1 align= "center">Bienvenido 👋, Soy Marco Montesdeoca <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="40px">
 
-<!--
-**FelixMF/FelixMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70px"> ![Banner Git](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70px"></h1>
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
