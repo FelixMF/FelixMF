@@ -6,7 +6,7 @@
 
 
 - 🔭 Estudio en la: 
-** UTA** <img src= "https://media.giphy.com/media/3LrK7Q7UhF5MnhZ5ja/giphy.gif" width="50px">
+**UTA** <img src= "https://media.giphy.com/media/3LrK7Q7UhF5MnhZ5ja/giphy.gif" width="50px">
 - 🌱 Lenguajes aprendidos:
 **JAVA, C** <img src= "https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" width="50px">
 - 🤔 Quiero desarrollar: 
