@@ -17,12 +17,12 @@
 
 <br><br>
 
-- :school: Soy estudiante en la *Universidad Técnica de Ambato (UTA)*.
-- :technologist: Me especializo en *desarrollo backend* con PHP, Laravel y MySQL.
+- :school: Fui estudiante en la *Universidad Técnica de Ambato (UTA)*.
+- :technologist: Me especializo en *desarrollo software* con PHP, REACT, Docker y MySQL.
 - :computer: Tengo experiencia en *Java, C, Python, JavaScript y TypeScript*.
 - :student: Estoy actualmente aprendiendo *arquitecturas de API escalables y limpias*.
 - :nerd_face: Siempre *aprendiendo nuevas cosas* cada día.
-- :calendar: *264 contribuciones en 2025* en GitHub.
+- :calendar: *264 contribuciones en 2026* en GitHub.
 - :house: Vivo en *Ambato - Ecuador*.
 <br>
 
