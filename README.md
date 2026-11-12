@@ -1,144 +1,119 @@
-<h1 align="center">Hola , Soy Marco Montesdeoca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Marco Montesdeoca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Backend;Especializado+en+PHP+y+Laravel;Amante+del+piano+y+los+videojuegos;Siempre+aprendiendo+cosas+nuevas"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2F6FEB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Software;Desarrollo+web+y+backend;Laravel+%C2%B7+Python+%C2%B7+FastAPI;Inteligencia+artificial+aplicada;Amante+del+piano+y+los+videojuegos" alt="Presentación animada" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelixMF&label=Vistas+del+perfil&color=0047AB&style=flat" alt="Vistas del perfil" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[tu-usuario]/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:montesdeocacruzmarco@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/FelixMF"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+
+<picture><img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px"></picture>
+
+- 🎓 Ingeniero en Software por la **Universidad Técnica de Ambato (UTA)**, 2026.
+- 💻 Desarrollo **aplicaciones web, web services y soluciones con IA**, de la base de datos a la interfaz.
+- 🏢 He trabajado en proyectos para **Petroecuador, FCPC Jubilación y Cesantía UTA, GAD Municipal de Píllaro y CELEC**.
+- 🤖 Mi trabajo de titulación: un **Medidor Virtual de Flujo (VFM)** con machine learning para predecir el caudal de gas asociado.
+- 🧱 Me enfoco en **APIs limpias, seguridad y código mantenible**.
+- 🚀 Interesado en emprender y construir productos de software propios.
+- 📍 Ambato, Ecuador.
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=FelixMF&label=Vistas+del+perfil&color=0047AB&style=plastic?" alt="FelixMF" height=25px, width=160px/> 
-</p>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> Stack tecnológico
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Backend
 
-<picture> <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = 250px></picture>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-<br><br>
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend
 
-- :school: Fui estudiante en la *Universidad Técnica de Ambato (UTA)*.
-- :technologist: Me especializo en *desarrollo software* con PHP, REACT, Docker y MySQL.
-- :computer: Tengo experiencia en *Java, C, Python, JavaScript y TypeScript*.
-- :student: Estoy actualmente aprendiendo *arquitecturas de API escalables y limpias*.
-- :nerd_face: Siempre *aprendiendo nuevas cosas* cada día.
-- :calendar: *264 contribuciones en 2026* en GitHub.
-- :house: Vivo en *Ambato - Ecuador*.
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mi Stack Tecnológico
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Datos e IA
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## Proyectos destacados
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://github.com/FelixMF/vfm-gas-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixMF&repo=vfm-gas-prediction&theme=tokyonight&hide_border=true" alt="VFM"/></a>
+  <a href="https://github.com/FelixMF/sistema-cementerios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixMF&repo=sistema-cementerios&theme=tokyonight&hide_border=true" alt="Sistema de cementerios"/></a>
 </p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctate conmigo
 <p align="center">
-	<a href="mailto:tu-email@ejemplo.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/FelixMF"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/FelixMF/ml-regression-benchmark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixMF&repo=ml-regression-benchmark&theme=tokyonight&hide_border=true" alt="Benchmark ML"/></a>
+  <a href="https://github.com/FelixMF/fastapi-clean-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixMF&repo=fastapi-clean-template&theme=tokyonight&hide_border=true" alt="Plantilla FastAPI"/></a>
 </p>
 
-## 🛠️ Mis Habilidades
+## Experiencia profesional
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
-
-<p align="center"> 
-  &emsp; 
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?style=plastic&logo=c&logoColor=black"></a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
-<p align="center"> 
-  &emsp; 
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a> 
-  &emsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Backend & Bases de Datos
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=plastic&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs y Herramientas
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="PHPStorm" src="https://img.shields.io/badge/PHPStorm-000000.svg?&style=plastic&logo=phpstorm&logoColor=white" /></a>
-</p>
+- **Trabajo de titulación, Campo Pucuna, Petroecuador (2026):** VFM con IA (Laravel, FastAPI, TensorFlow/Keras, PostgreSQL, Docker). Se cumplieron los 15 requerimientos.
+- **Desarrollador web, FCPC Jubilación y Cesantía UTA (2026):** sitio institucional y portal para partícipes y jubilados (saldos, simulador de crédito), integrado con web services.
+- **Prácticas, GAD Municipal de Píllaro (2025):** sistema de administración de cementerios municipales, con reconocimiento institucional.
+- **Desarrollador de Software, ARLELAIN SYSTEM (2024–2025):** aplicaciones web con PHP, Python, MySQL y PostgreSQL.
+- **Colaborador, TELECONT PLUS (2024–2026):** migración de sistemas contables de PHP a Python e infraestructura de redes.
 
 ## 📊 Estadísticas de GitHub
 
-<details><summary><h3> 🔥 Estadísticas de Racha</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixMF&theme=tokyonight_duo" alt="FelixMF" /></p>
-
-</details>
-  
-<details><summary><h3>💻 Estadísticas de GitHub</h3></summary>
-
-----
-	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="FelixMF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixMF&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FelixMF" height="230px"/>
-<br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&theme=default&hide_border=true">
+    <img height="160" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&theme=tokyonight&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMF&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMF&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img height="160" alt="Lenguajes principales" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMF&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
 
-  <b>Nota:</b> Los lenguajes más usados son solo una métrica de los lenguajes de mi código público y no reflejan experiencia o nivel de habilidad.
-  </p>
+<p align="center"><sub>Los lenguajes mostrados reflejan solo mi código público, no mi nivel de experiencia.</sub></p>
+
+<details>
+<summary><h3>🔥 Racha de contribuciones</h3></summary>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FelixMF&theme=tokyonight_duo&hide_border=true" alt="Racha de GitHub" />
+</p>
+
 </details>
 
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
+<details>
+<summary><h3>🏆 Trofeos de GitHub</h3></summary>
 
-----
-	
-[![FelixMF's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelixMF&theme=github)](https://github.com/FelixMF/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixMF&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub" /></a>
+</p>
 
- 
-</details>
-
-<details><summary> <h3> 🏆 Trofeos de GitHub </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelixMF&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FelixMF" /></a> </p>
-	
 </details>
 
 ## 👥 Colaboradores
@@ -151,10 +126,18 @@
   <a href="https://github.com/JosilBlue">@JosilBlue</a>
 </p>
 
-## 🎵 Mis Intereses
+## 🎵 Fuera del código
 
 <p align="center">
-  :video_game: Videojuegos • :musical_keyboard: Piano • :movie_camera: Películas • :headphones: Descubrir nueva música
+  🎹 Piano • 🎮 Videojuegos • 🎬 Películas • 🎧 Descubrir música nueva
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[tu-usuario]/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:montesdeocacruzmarco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/FelixMF"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
